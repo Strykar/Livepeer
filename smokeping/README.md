@@ -1,3 +1,7 @@
+# Smokepeer
+A Smokeping config generator that tracks latency to Livepeer Inc. test nodes
+Consider this pre-alpha and use at your own peril, here be dragons..
+
 Git pull just smokepeer
 ```
 git clone --no-checkout https://github.com/Strykar/Livepeer.git
